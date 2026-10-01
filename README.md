@@ -3,6 +3,8 @@
 **No measurement extracts more information about a phase than `4 Var H`** — the quantum
 Cramér–Rao bound for pure states, from Robertson's inequality, in Lean 4.
 
+**[▶ Try it: turn the phase and watch δT and δP](https://naype888-cloud.github.io/nrs3-cramer-rao/)**
+
 ![NRS³ · Cramér–Rao](docs/figures/cramer_rao_nrs3.png)
 
 ## Results
